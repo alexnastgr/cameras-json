@@ -1,0 +1,2399 @@
+[
+  {
+    "id": 12029,
+    "type": "Mirrorless",
+    "releaseYear": 2024,
+    "brand": "Nikon",
+    "model": "Z6 III",
+    "IBIS": true,
+    "weight": 760,
+    "mount": "Z mount",
+    "battery": {
+      "type": "EN-EL15c",
+      "life": 450
+    },
+    "sensor": {
+      "size": "Full Frame",
+      "type": "BSI CMOS (partially stacked)",
+      "resolution": 24.5
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [120, 60, 30, 24],
+      "formats": ["MP4", "MOV"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 20
+    }
+  },
+  {
+    "id": 13023,
+    "type": "Mirrorless",
+    "releaseYear": 2022,
+    "brand": "Fujifilm",
+    "model": "X-T5",
+    "IBIS": true,
+    "weight": 557,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W235 Lithium-Ion",
+      "life": 580
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 5 HR",
+      "resolution": 40.2
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60, 30, 24],
+      "formats": ["MP4", "MOV"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 15
+    }
+   
+  },
+  {
+    "id": 34039,
+    "type": "Mirrorless",
+    "releaseYear": 2019,
+    "brand": "Nikon",
+    "model": "Z50",
+    "IBIS": false,
+    "weight": 395,
+    "mount": "Z mount",
+    "battery": {
+      "type": "EN-EL25",
+      "life": 320
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 20.9
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30, 25, 24],
+      "formats": ["MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 11
+    }
+   
+  },
+  {
+    "id": 16079,
+    "type": "Mirrorless",
+    "releaseYear": 2023,
+    "brand": "Nikon",
+    "model": "Z fc",
+    "IBIS": false,
+    "weight": 445,
+    "mount": "Z mount",
+    "battery": {
+      "type": "EN-EL25",
+      "life": 300
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 20.9
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30, 25, 24],
+      "formats": ["MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+   
+  },
+  {
+    "id": 24334,
+    "type": "Mirrorless",
+    "releaseYear": 2018,
+    "brand": "Panasonic",
+    "model": "Lumix DMC-GX80",
+    "IBIS": true,
+    "weight": 426,
+    "mount": "Micro Four Thirds",
+    "battery": {
+      "type": "DMW-BLG10",
+      "life": 290
+    },
+    "sensor": {
+      "size": "MicroFourThirds",
+      "type": "Live MOS",
+      "resolution": 16
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30, 24],
+      "formats": ["MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": false
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+  },
+  {
+    "id": 15462,
+    "type": "Mirrorless",
+    "releaseYear": 2018,
+    "brand": "Sony",
+    "model": "A7 III",
+    "IBIS": true,
+    "weight": 650,
+    "mount": "Sony E (FE)",
+    "battery": {
+      "type": "NP-FZ100",
+      "life": 710
+    },
+    "sensor": {
+      "size": "Full Frame",
+      "type": "Exmor R CMOS",
+      "resolution": 24
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30, 24],
+      "formats": ["MP4", "XAVC S"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 10
+    }
+  },
+  {
+    "id": 12483,
+    "type": "Mirrorless",
+    "releaseYear": 2022,
+    "brand": "Sony",
+    "model": "A7C II",
+    "IBIS": true,
+    "weight": 515,
+    "mount": "Sony E (FE)",
+    "battery": {
+      "type": "NP-FZ100",
+      "life": 680
+    },
+    "sensor": {
+      "size": "Full Frame",
+      "type": "Exmor R CMOS",
+      "resolution": 33
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60, 30, 24],
+      "formats": ["MP4", "XAVC S"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 10
+    }
+  },
+  {
+    "id": 34529,
+    "type": "Medium Format",
+    "releaseYear": 2024,
+    "brand": "Fujifilm",
+    "model": "GFX 100 II",
+    "IBIS": true,
+    "weight": 1040,
+    "mount": "G Mount",
+    "battery": {
+      "type": "NP-T125",
+      "life": 400
+    },
+    "sensor": {
+      "size": "Medium Format",
+      "type": "BSI CMOS",
+      "resolution": 102
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60, 30, 24],
+      "formats": ["MP4", "MOV"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"],
+      "shotsPerSec": 5
+    }
+  },
+  {
+    "id": 34828,
+    "type": "Medium Format",
+    "releaseYear": 2021,
+    "brand": "Hasselblad",
+    "model": "X2D 100C",
+    "IBIS": false,
+    "weight": 766,
+    "mount": "H XCD",
+    "battery": {
+      "type": "Hasselblad",
+      "life": 350
+    },
+    "sensor": {
+      "size": "Medium Format",
+      "type": "CMOS",
+      "resolution": 100
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30, 24],
+      "formats": ["MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "OLED",
+      "size": 3.6,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": false
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "TIFF"],
+      "shotsPerSec": 3
+    }
+  },
+  {
+    "id": 46967,
+    "type": "Mirrorless",
+    "releaseYear": 2024,
+    "brand": "Fujifilm",
+    "model": "X-E5",
+    "IBIS": true,
+    "weight": 445,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W126S",
+      "life": 310
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 5 HR",
+      "resolution": 40.2
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60, 30, 24],
+      "formats": ["MP4", "MOV"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": false,
+      "usb": true,
+      "headphone": false,
+      "microphone": false
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 10
+    }
+  },
+
+  {
+    "id": 567445,
+    "type": "Mirrorless",
+    "brand": "Fujifilm",
+    "model": "X-S20",
+    "releaseYear": 2024,
+    "IBIS": true,
+    "weight": 491,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W235",
+      "life": 750
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 4",
+      "resolution": 26.1
+    },
+    "video": {
+      "maxResolution": "6.2K",
+      "frameRates": [30, 60, 100, 120],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"],
+      "shotsPerSec": 30
+    }
+  },
+
+  {
+    "id": 33417,
+    "type": "Mirrorless",
+    "brand": "Fujifilm",
+    "model": "X-H2S",
+    "releaseYear": 2022,
+    "IBIS": true,
+    "weight": 660,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W235",
+      "life": 580
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 5 HS",
+      "resolution": 26.16
+    },
+    "video": {
+      "maxResolution": "6.2K",
+      "frameRates": [30, 120],
+      "formats": ["MOV", "MP4", "ProRes RAW"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 40
+    }
+  },
+
+  {
+    "id": 98799,
+    "type": "Mirrorless",
+    "brand": "Fujifilm",
+    "model": "X-T30 III",
+    "releaseYear": 2023,
+    "IBIS": false,
+    "weight": 383,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W126S",
+      "life": 380
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 4",
+      "resolution": 26.1
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30, 60],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 20
+    }
+  },
+
+  {
+    "id": 55633,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R8",
+    "releaseYear": 2023,
+    "IBIS": false,
+    "weight": 414,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP-E17",
+      "life": 150
+    },
+    "sensor": {
+      "size": "Full-frame",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60],
+      "formats": ["MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 40
+    }
+  },
+
+  {
+    "id": 115888,
+    "type": "Mirrorless",
+    "brand": "Panasonic",
+    "model": "Lumix S5 II",
+    "releaseYear": 2024,
+    "IBIS": true,
+    "weight": 740,
+    "mount": "L-mount",
+    "battery": {
+      "type": "DMW-BLK22",
+      "life": 370
+    },
+    "sensor": {
+      "size": "Full-frame",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "6K",
+      "frameRates": [30],
+      "formats": ["H.264", "H.265", "MOV"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 30
+    }
+  },
+
+  {
+    "id": 445774,
+    "type": "Mirrorless",
+    "brand": "Sony",
+    "model": "ZV-E10",
+    "releaseYear": 2021,
+    "IBIS": false,
+    "weight": 343,
+    "mount": "Sony E",
+    "battery": {
+      "type": "NP-FW50",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "Exmor CMOS",
+      "resolution": 24.0
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30],
+      "formats": ["XAVC S"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 2.95,
+      "touch": false,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 11
+    }
+  },
+
+  {
+    "id": 180442,
+    "type": "Mirrorless",
+    "brand": "Nikon",
+    "model": "Z5 II",
+    "releaseYear": 2024,
+    "IBIS": false,
+    "weight": 590,
+    "mount": "Nikon Z",
+    "battery": {
+      "type": "EN-EL15c",
+      "life": 380
+    },
+    "sensor": {
+      "size": "Full-frame",
+      "type": "CMOS",
+      "resolution": 24.3
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60],
+      "formats": ["H.264"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 9
+    }
+  },
+
+  {
+    "id": 33312,
+    "type": "Mirrorless",
+    "brand": "Fujifilm",
+    "model": "X-T50",
+    "releaseYear": 2024,
+    "IBIS": false,
+    "weight": 478,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W126S",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 5",
+      "resolution": 40.0
+    },
+    "video": {
+      "maxResolution": "6.2K",
+      "frameRates": [30],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 15
+    }
+  },
+
+  {
+    "id": 56577,
+    "type": "Mirrorless",
+    "brand": "Olympus / OM System",
+    "model": "OM-3",
+    "releaseYear": 2023,
+    "IBIS": true,
+    "weight": 504,
+    "mount": "Micro Four Thirds",
+    "battery": {
+      "type": "BLX-1",
+      "life": null
+    },
+    "sensor": {
+      "size": "Micro Four Thirds",
+      "type": "Live MOS",
+      "resolution": 20.4
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 60
+    }
+  },
+
+  {
+    "id": 234788,
+    "type": "Mirrorless",
+    "brand": "Sony",
+    "model": "a6600",
+    "releaseYear": 2019,
+    "IBIS": true,
+    "weight": 503,
+    "mount": "Sony E",
+    "battery": {
+      "type": "NP‑FW50",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30],
+      "formats": ["XAVC S"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 11
+    }
+  },
+
+  {
+    "id": 235538,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R10",
+    "releaseYear": 2022,
+    "IBIS": false,
+    "weight": 381,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP-E17",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "Dual Pixel CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60],
+      "formats": ["MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 15
+    }
+  },
+
+  {
+    "id": 29908,
+    "type": "Mirrorless",
+    "brand": "Nikon",
+    "model": "Z50 II",
+    "releaseYear": 2024,
+    "IBIS": false,
+    "weight": 450,
+    "mount": "Nikon Z",
+    "battery": {
+      "type": "EN-EL25a",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 20.9
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 14
+    }
+  },
+
+  {
+    "id": 77567,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R50",
+    "releaseYear": 2023,
+    "IBIS": false,
+    "weight": 387,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP-E17",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30],
+      "formats": ["MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": null
+    }
+  },
+
+  {
+    "id": 44454,
+    "type": "Mirrorless",
+    "brand": "Fujifilm",
+    "model": "X‑S10",
+    "releaseYear": 2020,
+    "IBIS": true,
+    "weight": 465,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W126S",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 4",
+      "resolution": 26.1
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": null
+    }
+  },
+
+  {
+    "id": 33451,
+    "type": "Mirrorless",
+    "brand": "Fujifilm",
+    "model": "X-H2",
+    "releaseYear": 2022,
+    "IBIS": true,
+    "weight": 660,
+    "mount": "Fujifilm X",
+    "battery": {
+      "type": "NP-W235",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "X-Trans CMOS 5 HR",
+      "resolution": 40.2
+    },
+    "video": {
+      "maxResolution": "8K",
+      "frameRates": [30],
+      "formats": ["ProRes", "H.265"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": null
+    }
+  },
+
+  {
+    "id": 11456,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 250D",
+    "releaseYear": 2019,
+    "IBIS": false,
+    "weight": 449,
+    "mount": "Canon EF / EF-S",
+    "battery": {
+      "type": "LP-E17",
+      "life": 1070
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.1
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [24, 25, 30],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+  },
+
+  {
+    "id": 20244,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 700D",
+    "releaseYear": 2013,
+    "IBIS": false,
+    "weight": 580,
+    "mount": "Canon EF / EF-S",
+    "battery": {
+      "type": "LP-E8",
+      "life": 440
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 18.0
+    },
+    "video": {
+      "maxResolution": "Full HD 1080p",
+      "frameRates": [24, 25, 30],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": false,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+  },
+
+  {
+    "id": 23122,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 800D",
+    "releaseYear": 2017,
+    "IBIS": false,
+    "weight": 532,
+    "mount": "Canon EF / EF-S",
+    "battery": {
+      "type": "LP-E17",
+      "life": 600
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "Full HD 1080p",
+      "frameRates": [24, 25, 30, 60],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 6
+    }
+  },
+
+  {
+    "id": 22311,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 70D",
+    "releaseYear": 2013,
+    "IBIS": false,
+    "weight": 755,
+    "mount": "Canon EF / EF-S",
+    "battery": {
+      "type": "LP-E6",
+      "life": 920
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 20.2
+    },
+    "video": {
+      "maxResolution": "Full HD 1080p",
+      "frameRates": [24, 25, 30, 60],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 7
+    }
+  },
+
+  {
+    "id": 11133,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 80D",
+    "releaseYear": 2016,
+    "IBIS": false,
+    "weight": 730,
+    "mount": "Canon EF / EF-S",
+    "battery": {
+      "type": "LP-E6N",
+      "life": 960
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "Full HD 1080p",
+      "frameRates": [24, 25, 30, 60],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 7
+    }
+  },
+
+  {
+    "id": 20155,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 77D",
+    "releaseYear": 2017,
+    "IBIS": false,
+    "weight": 540,
+    "mount": "Canon EF / EF-S",
+    "battery": {
+      "type": "LP-E17",
+      "life": 600
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "Full HD 1080p",
+      "frameRates": [24, 25, 30, 60],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 6
+    }
+  },
+
+  {
+    "id": 11223,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 90D",
+    "releaseYear": 2019,
+    "IBIS": false,
+    "weight": 701,
+    "mount": "Canon EF / EF-S",
+    "battery": {
+      "type": "LP-E6N",
+      "life": 1300
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 32.5
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [24, 25, 30, 60],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 10
+    }
+  },
+
+  {
+    "id": 20892,
+    "type": "DSLR",
+    "brand": "Canon",
+    "model": "EOS 5D Mark IV",
+    "releaseYear": 2016,
+    "IBIS": false,
+    "weight": 890,
+    "mount": "Canon EF",
+    "battery": {
+      "type": "LP-E6N",
+      "life": 900
+    },
+    "sensor": {
+      "size": "Full-Frame",
+      "type": "CMOS",
+      "resolution": 30.4
+    },
+    "video": {
+      "maxResolution": "4K (DCI)",
+      "frameRates": [24, 25, 30, 60],
+      "formats": ["MOV", "MP4"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 7
+    }
+  },
+
+  {
+    "id": 30122,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D5200",
+    "releaseYear": 2012,
+    "IBIS": false,
+    "weight": 505,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL14",
+      "life": 500
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.1
+    },
+    "video": {
+      "maxResolution": "1920x1080",
+      "frameRates": [60, 50, 30, 25, 24],
+      "formats": ["MPEG-4", "H.264"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": false,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+  },
+
+  {
+    "id": 43341,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D5300",
+    "releaseYear": 2013,
+    "IBIS": false,
+    "weight": 530,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL14a",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "1920x1080",
+      "frameRates": [60, 50, 30, 25, 24],
+      "formats": ["MPEG‑4", "H.264"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": true
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": false,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+  },
+
+  {
+    "id": 78787,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D3500",
+    "releaseYear": 2018,
+    "IBIS": false,
+    "weight": 365,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL14a",
+      "life": 1550
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "1920x1080",
+      "frameRates": [60, 50, 30, 25, 24],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": false,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": false
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+  },
+
+  {
+    "id": 15566,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D5600",
+    "releaseYear": 2016,
+    "IBIS": false,
+    "weight": 465,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL14a",
+      "life": 970
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "1920x1080",
+      "frameRates": [60, 50, 30, 25, 24],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 5
+    }
+  },
+
+  {
+    "id": 44908,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D7200",
+    "releaseYear": 2015,
+    "IBIS": false,
+    "weight": 765,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL15",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "1920x1080",
+      "frameRates": [60, 50, 30, 25, 24],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": false,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 6
+    }
+  },
+
+  {
+    "id": 99899,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D7500",
+    "releaseYear": 2017,
+    "IBIS": false,
+    "weight": 720,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL15a",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 20.9
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30, 25],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 8
+    }
+  },
+
+  {
+    "id": 33443,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D750",
+    "releaseYear": 2014,
+    "IBIS": false,
+    "weight": 840,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL15",
+      "life": null
+    },
+    "sensor": {
+      "size": "Full‑Frame",
+      "type": "CMOS",
+      "resolution": 24.3
+    },
+    "video": {
+      "maxResolution": "1920x1080",
+      "frameRates": [60, 50, 30, 25, 24],
+      "formats": ["MOV"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": false,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 6
+    }
+  },
+
+  {
+    "id": 88909,
+    "type": "DSLR",
+    "brand": "Nikon",
+    "model": "D800",
+    "releaseYear": 2012,
+    "IBIS": false,
+    "weight": 900,
+    "mount": "Nikon F",
+    "battery": {
+      "type": "EN-EL15",
+      "life": 900
+    },
+    "sensor": {
+      "size": "Full-frame",
+      "type": "CMOS",
+      "resolution": 36.3
+    },
+    "video": {
+      "maxResolution": "1920x1080",
+      "frameRates": [24, 25, 30, 60],
+      "formats": ["MPEG‑4", "H.264"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": false,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 4
+    }
+  },
+
+  {
+    "id": 66766,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R6 Mark II",
+    "releaseYear": 2022,
+    "IBIS": true,
+    "weight": 588,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP‑E6NH",
+      "life": 760
+    },
+    "sensor": {
+      "size": "Full‑Frame",
+      "type": "CMOS",
+      "resolution": 24.2
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [23.98, 25, 29.97, 50, 59.94],
+      "formats": ["H.264", "H.265", "MPEG‑4"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"],
+      "shotsPerSec": 12
+    }
+  },
+
+  {
+    "id": 98879,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R5",
+    "releaseYear": 2020,
+    "IBIS": true,
+    "weight": 738,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP‑E6NH",
+      "life": 320
+    },
+    "sensor": {
+      "size": "Full‑Frame",
+      "type": "CMOS",
+      "resolution": 45.0
+    },
+    "video": {
+      "maxResolution": "8K",
+      "frameRates": [30],
+      "formats": ["RAW", "H.264", "H.265"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 12
+    }
+  },
+
+  {
+    "id": 44442,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R7",
+    "releaseYear": 2022,
+    "IBIS": true,
+    "weight": null,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP‑E6NH",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS‑C",
+      "type": "Dual‑Pixel CMOS",
+      "resolution": 32.5
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [59.94],
+      "formats": ["H.264", "H.265"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 30
+    }
+  },
+
+  {
+    "id": 11229,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R6 Mark III",
+    "releaseYear": 2025,
+    "IBIS": true,
+    "weight": 699,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP‑E6P",
+      "life": 620
+    },
+    "sensor": {
+      "size": "Full‑Frame",
+      "type": "CMOS",
+      "resolution": 32.5
+    },
+    "video": {
+      "maxResolution": "7K DCI",
+      "frameRates": [60, 30],
+      "formats": ["ProRes RAW", "H.264", "H.265", "XF-HEVC S"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"],
+      "shotsPerSec": 40
+    }
+  },
+
+  {
+    "id": 77789,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS M50",
+    "releaseYear": 2018,
+    "IBIS": false,
+    "weight": 390,
+    "mount": "Canon EF‑M",
+    "battery": {
+      "type": "LP‑E12",
+      "life": 235
+    },
+    "sensor": {
+      "size": "APS‑C",
+      "type": "CMOS",
+      "resolution": 24.1
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [24, 25],
+      "formats": ["H.264", "MPEG‑4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": true,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "C-RAW"],
+      "shotsPerSec": 10
+    }
+  },
+
+  {
+    "id": 99988,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R100",
+    "releaseYear": 2023,
+    "IBIS": false,
+    "weight": 356,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP-E17",
+      "life": null
+    },
+    "sensor": {
+      "size": "APS-C",
+      "type": "CMOS",
+      "resolution": 24.1
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [23.98],
+      "formats": ["H.264", "MPEG-4"]
+    },
+    "cardSlots": 1,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": false,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "C-RAW"],
+      "shotsPerSec": 6.5
+    }
+  },
+
+  {
+    "id": 11113,
+    "type": "Mirrorless",
+    "brand": "Canon",
+    "model": "EOS R5 C",
+    "releaseYear": 2022,
+    "IBIS": false,
+    "weight": 680,
+    "mount": "Canon RF",
+    "battery": {
+      "type": "LP-E6NH",
+      "life": 220
+    },
+    "sensor": {
+      "size": "Full-Frame",
+      "type": "CMOS",
+      "resolution": 45.0
+    },
+    "video": {
+      "maxResolution": "8192×4320",
+      "frameRates": [23.98, 24, 25, 29.97, 50, 59.94, 100, 120],
+      "formats": [
+        "Cinema RAW Light (12-bit)",
+        "XF-AVC 10-bit",
+        "MP4 H.264 / H.265"
+      ]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.2,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 12
+    }
+  },
+
+  {
+    "id": 22233,
+    "type": "Mirrorless",
+    "brand": "Sony",
+    "model": "Alpha 7 IV",
+    "releaseYear": 2021,
+    "IBIS": true,
+    "weight": 658,
+    "mount": "Sony E",
+    "battery": {
+      "type": "NP-FZ100",
+      "life": 520
+    },
+    "sensor": {
+      "size": "Full-Frame",
+      "type": "BSI-CMOS",
+      "resolution": 33.0
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [60, 30, 24],
+      "formats": ["XAVC S-I", "XAVC HS", "XAVC S"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": true,
+      "wifi": true,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": true,
+      "articulating": true
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW", "HEIF"],
+      "shotsPerSec": 10
+    }
+  },
+
+  {
+    "id": 89980,
+    "type": "Mirrorless",
+    "brand": "Sony",
+    "model": "Alpha 7R III",
+    "releaseYear": 2017,
+    "IBIS": true,
+    "weight": 657,
+    "mount": "Sony E",
+    "battery": {
+      "type": "NP-FZ100",
+      "life": 530
+    },
+    "sensor": {
+      "size": "Full-Frame",
+      "type": "Exmor R BSI-CMOS",
+      "resolution": 42.4
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [30],
+      "formats": ["XAVC S"]
+    },
+    "cardSlots": 2,
+    "connectivity": {
+      "bluetooth": false,
+      "wifi": false,
+      "nfc": false,
+      "gps": false
+    },
+    "screen": {
+      "type": "LCD",
+      "size": 3.0,
+      "touch": false,
+      "articulating": false
+    },
+    "ports": {
+      "hdmi": true,
+      "usb": true,
+      "headphone": true,
+      "microphone": true
+    },
+    "image": {
+      "formats": ["JPEG", "RAW"],
+      "shotsPerSec": 10
+    }
+  }
+]
